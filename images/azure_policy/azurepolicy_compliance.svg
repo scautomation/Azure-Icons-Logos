@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="500px">
+<path class="msportalfx-svg-c15" fill="#67b4db" d="M 44 7.8 L 39.2 3 l -2 -2 H 4 v 48 h 42 V 9.8 Z" />
+<path class="msportalfx-svg-c01" fill="#e1f0f8" d="M 37 3 H 6 v 44 h 38 V 10 h -7 Z" />
+<path class="msportalfx-svg-c08" fill="#b20f12" d="M 29.347 28.611 c -1.176 1.029 -2.721 1.691 -4.412 1.691 s -3.235 -0.662 -4.412 -1.691 l -0.662 13.235 l 5 -5.074 l 5 5.074 l -0.514 -13.235 Z" />
+<ellipse fill="#d45800" cx="25.025" cy="23" rx="7.875" ry="7.9" />
+ <ellipse class="msportalfx-svg-c10" fill="#f78b00" cx="25.025" cy="23" rx="5.974" ry="5.993" />
+<path opacity="0.35" fill="#f69b26" d="M 19.391 28.653 c -3.055 -3.065 -3.055 -8.104 0 -11.169 s 8.078 -3.065 11.133 0 L 19.391 28.653 Z" />
+  </svg>

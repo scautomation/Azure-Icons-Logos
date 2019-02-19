@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="500px">
+ <path clip-rule="evenodd" fill="#d45800" fill-rule="evenodd" d="M 0 18 h 15 v 15 H 0 Z m 0 17 h 15 v 15 H 0 Z m 17 0 h 15 v 15 H 17 Z" /> 
+  <path clip-rule="evenodd" fill="#4b9ac8" fill-rule="evenodd" d="M 33.5 0 C 24.265 0 17 7.265 17 16.5 V 33 h 16.5 C 42.735 33 50 25.735 50 16.5 S 42.735 0 33.5 0 Z" />
+  <circle clip-rule="evenodd" fill="#fff" fill-rule="evenodd" cx="23" cy="25" r="3" />
+    <circle class="msportalfx-svg-c01" clip-rule="evenodd" fill="#fff" fill-rule="evenodd" cx="37" cy="22" r="3" />
+  <circle class="msportalfx-svg-c01" clip-rule="evenodd" fill="#fff" fill-rule="evenodd" cx="30" cy="14" r="3" />
+  <path fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" d="M 24 24 l 6 -10" />
+  <circle class="msportalfx-svg-c01" clip-rule="evenodd" fill="#fff" fill-rule="evenodd" cx="43" cy="11" r="3" />
+  <path fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" d="M 42 12 l -5 10 m 0 0 l -7 -8" />
+  </svg>

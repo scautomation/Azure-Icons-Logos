@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="500px">
+<path fill="#a0a1a2" d="M 5.45 11.263 l 3.1 -2.527 l 22 26.999 l -3.1 2.526 Z" />
+<path fill="#a0a1a2" d="M 7 8 h 33 v 4 H 7 Z" />
+<circle fill="#976dae" cx="7" cy="10" r="6.9" />
+<circle opacity="0.2" fill="#a0a1a2" cx="7" cy="10" r="6.9" />
+<circle class="msportalfx-svg-c17" fill="#8a5ba4" cx="40" cy="10" r="8.9" />
+<circle opacity="0.1" fill="#8a5ba4" cx="40" cy="10" r="8.9" /><circle fill="#7d499a" cx="29" cy="37" r="11.9" />
+</svg>
